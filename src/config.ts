@@ -11,7 +11,7 @@ export const CONFIG = {
     SYSTEM: {
         GUILD_ID: "",
         MIN_STAFF_ROLE: "",
-        INVITE_XP: 0,
+        INVITE_XP: 10,
         CHANNELS: [] as IChannel[],
         TASKS: [] as ITask[],
     },
