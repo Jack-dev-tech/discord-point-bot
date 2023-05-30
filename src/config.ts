@@ -2,9 +2,9 @@ import { IChannel, ITask } from "my-module";
 
 export const CONFIG = {
     BOT: {
-        TOKEN: "",
-        PREFIX: "",
-        STATUS: "",
+        TOKEN: "MTExMjkzMTIwMTUyMzY0NjU3NA.GzGVeV.WnD0SOg8iLynpSzM0pFYOK-h7dYhuvVHbaser0",
+        PREFIX: "*",
+        STATUS: "Online",
         DEVELOPERS: [] as string[],
         MONGO_URL: "",
     },
